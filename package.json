@@ -1,0 +1,19 @@
+{
+  "name": "i-hate-browsers",
+  "version": "1.0.0",
+  "description": "This is why I hate browsers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfdeagle47/i-hate-browsers"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfdeagle47/i-hate-browsers/issues"
+  },
+  "homepage": "https://github.com/dfdeagle47/i-hate-browsers"
+}
